@@ -41,37 +41,37 @@ gpresult /r
 Below are screenshots documenting the Active Directory setup and Group Policy implementation.
 
 ### **1️⃣ Installing Active Directory Services**
-![AD Installation](https://imgur.com/a/hnwPdIV)
+![AD Installation](https://i.imgur.com/dg97xlq.png)
 
 ### **2️⃣ Promoting the Server to Domain Controller**
-![Promote DC](https://imgur.com/a/didhRIR)
+![Promote DC](https://i.imgur.com/didhRIR.png))
 
 ### **3️⃣ Creating Organizational Units (OUs)**
-![Create OUs](https://imgur.com/a/I7of6PF)
+![Create OUs](https://i.imgur.com/I7of6PF.png)
 
 ### **4️⃣ Adding Users to Active Directory**
-![Create Users](https://imgur.com/a/fWRunpy)
+![Create Users](https://i.imgur.com/fWRunpy.png)
 
 ### **5️⃣ Configuring Group Policy (GPO) to Block USB**
-![GPO Block USB](https://imgur.com/a/gksCbHP)
+![GPO Block USB](https://i.imgur.com/gksCbHP.png)
 
 ### **6️⃣ Linking GPO to an Organizational Unit**
-![Link GPO](https://imgur.com/a/ahUV36V)
+![Link GPO](https://i.imgur.com/ahUV36V.png)
 
 ### **7️⃣ Forcing Group Policy Update on Clients**
-![GPO Update](https://imgur.com/a/PGrxkNb)
+![GPO Update](https://i.imgur.com/PGrxkNb.png)
 
 ### **8️⃣ Verifying Applied Policies on a Client Machine**
-![Verify GPO](https://imgur.com/a/bq3XNnq)
+![Verify GPO](https://i.imgur.com/bq3XNnq.png)
 
 ### **9️⃣ Testing USB Block Policy in Action**
-![USB Block](https://imgur.com/a/beEPVYZ)
+![USB Block](https://i.imgur.com/beEPVYZ.png)
 
-### **🔟 Checking Group Policy Results (gpresult /r)**
-![GPO Results](https://imgur.com/a/1OYr4SG)
+### **🔟 Checking Group Policy**
+![GPO Results](https://i.imgur.com/1OYr4SG.png)
 
 ### **1️⃣1️⃣ Final Active Directory & GPO Configuration Summary**
-![Final Summary](https://imgur.com/a/AFrOorW)
+![Final Summary](https://i.imgur.com/AFrOorW.png)
 
 ---
 
