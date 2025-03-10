@@ -41,37 +41,37 @@ gpresult /r
 Below are screenshots documenting the Active Directory setup and Group Policy implementation.
 
 ### **1️⃣ Installing Active Directory Services**
-![AD Installation](https://i.imgur.com/dg97xlq.png)
+![AD Installation](https://github.com/user-attachments/assets/2e288c45-016e-4f43-95eb-f8da7e33d284)
 
 ### **2️⃣ Promoting the Server to Domain Controller**
-![Promote DC](https://i.imgur.com/didhRIR.png))
+![Promote DC](https://github.com/user-attachments/assets/88103a13-0a78-4c60-a04f-d5ee36caf4ae)
 
 ### **3️⃣ Creating Organizational Units (OUs)**
-![Create OUs](https://i.imgur.com/I7of6PF.png)
+![Create OUs](https://github.com/user-attachments/assets/937a6e49-4295-411a-b62f-b877adbb4dd8)
 
 ### **4️⃣ Adding Users to Active Directory**
-![Create Users](https://i.imgur.com/fWRunpy.png)
+![Create Users](https://github.com/user-attachments/assets/7893a171-e5e9-41c8-b41c-0f9a91be8987)
 
 ### **5️⃣ Configuring Group Policy (GPO) to Block USB**
-![GPO Block USB](https://i.imgur.com/gksCbHP.png)
+![GPO Block USB](https://github.com/user-attachments/assets/1997032b-5cc5-4be1-bb72-7d640aba8b65)
 
 ### **6️⃣ Linking GPO to an Organizational Unit**
-![Link GPO](https://i.imgur.com/ahUV36V.png)
+![Link GPO](https://github.com/user-attachments/assets/93c273f0-6a06-42f8-9e2d-0f6693298fb4)
 
 ### **7️⃣ Forcing Group Policy Update on Clients**
-![GPO Update](https://i.imgur.com/PGrxkNb.png)
+![GPO Update](https://github.com/user-attachments/assets/a65917b5-122f-42ba-b89c-6d2ff4f8c2d1)
 
 ### **8️⃣ Verifying Applied Policies on a Client Machine**
-![Verify GPO](https://i.imgur.com/bq3XNnq.png)
+![Verify GPO](https://github.com/user-attachments/assets/3b497683-00aa-488a-8b5f-5de4b8ed3557)
 
 ### **9️⃣ Testing USB Block Policy in Action**
-![USB Block](https://i.imgur.com/beEPVYZ.png)
+![USB Block](https://github.com/user-attachments/assets/7d6062d0-344e-4e9b-bc88-4e6b798cfcc6)
 
 ### **🔟 Checking Group Policy**
-![GPO Results](https://i.imgur.com/1OYr4SG.png)
+![GPO Results](https://github.com/user-attachments/assets/8f773ca9-c44c-4975-8b70-5ee88123ecdc)
 
 ### **1️⃣1️⃣ Final Active Directory & GPO Configuration Summary**
-![Final Summary](https://i.imgur.com/AFrOorW.png)
+![Final Summary](https://github.com/user-attachments/assets/66eb5474-9e1b-4569-b941-b611e7b34392)
 
 ---
 
